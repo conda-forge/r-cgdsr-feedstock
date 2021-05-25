@@ -41,7 +41,7 @@ test:
 
 about:
   home: https://github.com/cBioPortal/cgdsr
-  license: LGPL-3
+  license: LGPL-3.0-only
   summary: Provides a basic set of R functions for querying the Cancer Genomics Data Server (CGDS),
     hosted by the Computational Biology Center at Memorial-Sloan-Kettering Cancer Center
     (MSKCC) at <www.cbioportal.org>.

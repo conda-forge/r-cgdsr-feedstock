@@ -3,7 +3,7 @@ About r-cgdsr
 
 Home: https://github.com/cBioPortal/cgdsr
 
-Package license: LGPL-3
+Package license: LGPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cgdsr-feedstock/blob/master/LICENSE.txt)
 

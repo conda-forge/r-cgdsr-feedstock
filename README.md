@@ -1,11 +1,11 @@
-About r-cgdsr
-=============
+About r-cgdsr-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cgdsr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cBioPortal/cgdsr
 
 Package license: LGPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cgdsr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a basic set of R functions for querying the Cancer Genomics Data Server (CGDS), hosted by the Computational Biology Center at Memorial-Sloan-Kettering Cancer Center (MSKCC) at <www.cbioportal.org>.
 
